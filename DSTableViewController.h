@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DSTableViewController.h
 //  UITableViewerController Challenge Solution
 //
 //  Created by Davion Scott on 11/3/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DSTableViewController : UITableViewController
 
 @end
-
